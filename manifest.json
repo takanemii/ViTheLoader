@@ -1,0 +1,11 @@
+{
+    "name": "ViTheLoader",
+    "version_number": "1.0.0",
+    "description": "Skin for Loader turning her into Vi",
+	"website_url": "https://github.com/takanemii/ViTheLoader",
+    "dependencies": [
+    "bbepis-BepInExPack-5.4.9",
+    "tristanmcpherson-R2API-4.3.5",
+    "RiskofThunder-HookGenPatcher-1.2.1"
+    ]
+}
